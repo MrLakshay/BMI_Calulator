@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+This project takes in input like Gender, Height and Weight.
+ 
+Give the result accordingly.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Input](https://github.com/MrLakshay/BMI_Calulator/blob/da49ef9518a1f0167c4daf25afec2f915efad56a/Screens/bmi%20input.jpeg)
+![Output](https://github.com/MrLakshay/BMI_Calulator/blob/da49ef9518a1f0167c4daf25afec2f915efad56a/Screens/bmi%20result.jpeg)
